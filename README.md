@@ -1,6 +1,6 @@
 VESTAL-TROUBLE
 
-# ABOUT 
+# DESCRIPTION
 This repository consistes the portfolito site Vestal Trouble.which is collaborative project, build during construct week of 3rd unit in Masai School. 
 # TECH STACK
  1.HTML
